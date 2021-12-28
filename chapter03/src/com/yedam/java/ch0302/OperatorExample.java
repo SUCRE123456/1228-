@@ -222,6 +222,8 @@ public class OperatorExample {
 		
 			System.out.println("몫:" +Q/W +", "+ "나머지:" +Q%W);
 			
+		
+			System.out.println("Good");
 			}
 			
 	}		
